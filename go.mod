@@ -27,7 +27,3 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
 )
-
-replace github.com/ncruces/go-sqlite3 => /tmp/go-sqlite3-wasm/go-sqlite3
-
-replace github.com/ncruces/go-sqlite3-wasm => /tmp/go-sqlite3-wasm
